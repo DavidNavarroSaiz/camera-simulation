@@ -171,7 +171,7 @@ def test_gain_process(array,input,expected):
 @pytest.mark.parametrize(
     "array,input,expected",
     [
-        (np.array([[1, 2, 3], [4, 5, 6]]),2,ValueError),
+        (np.array([[5, 2, 3], [4, 5, 6]]),2,ValueError),
         (np.array([[465, 466, 467,5,34,23], [33, 33, 333,55,44,33],[33, 33, 333,44,44,11]]),2,ValueError),
 
     ]
