@@ -4,13 +4,13 @@ import os
 
 
 
-VERSION = '0.0.1'
+VERSION = '0.0.10'
 DESCRIPTION = 'Basic Camera Emulator'
 LONG_DESCRIPTION = 'Camera emulator'
 
 # Setting up
 setup(
-    name="camera-simulator",
+    name="CameraSimulator",
     version=VERSION,
     author="David Navarro ",
     author_email="<dcnavarros@unal.edu.co>",
@@ -19,7 +19,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=['numpy',],
-    keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
+    keywords=['python', 'camera', 'gain'],
     classifiers=[
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",

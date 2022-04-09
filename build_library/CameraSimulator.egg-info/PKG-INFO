@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: camera-simulator
-Version: 0.0.1
+Name: CameraSimulator
+Version: 0.0.10
 Summary: Basic Camera Emulator
 Home-page: UNKNOWN
 Author: David Navarro 
 Author-email: <dcnavarros@unal.edu.co>
 License: UNKNOWN
-Keywords: python,video,stream,video stream,camera stream,sockets
+Keywords: python,camera,gain
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers

@@ -1,6 +1,0 @@
-setup.py
-camera_simulator.egg-info/PKG-INFO
-camera_simulator.egg-info/SOURCES.txt
-camera_simulator.egg-info/dependency_links.txt
-camera_simulator.egg-info/requires.txt
-camera_simulator.egg-info/top_level.txt
