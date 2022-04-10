@@ -1,4 +1,4 @@
-from camera_simulator import Lens,Sensor
+from CameraSimulator import Lens,Sensor
 import numpy as np
 import pytest
 
