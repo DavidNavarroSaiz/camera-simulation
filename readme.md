@@ -154,4 +154,4 @@ on the futures.py file you will find the implementation of concurrent package to
 
 you can find the complete project on the [Github repository](https://pypi.org/project/CameraSimulator/).
 
-Thankyou
+Thank you
