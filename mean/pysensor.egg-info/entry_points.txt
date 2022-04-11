@@ -1,0 +1,3 @@
+[console_scripts]
+pysensor = mean:my_mean
+

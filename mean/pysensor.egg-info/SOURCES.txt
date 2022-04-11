@@ -1,0 +1,6 @@
+setup.py
+pysensor.egg-info/PKG-INFO
+pysensor.egg-info/SOURCES.txt
+pysensor.egg-info/dependency_links.txt
+pysensor.egg-info/entry_points.txt
+pysensor.egg-info/top_level.txt

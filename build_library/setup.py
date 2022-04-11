@@ -4,7 +4,7 @@ import os
 
 
 
-VERSION = '0.0.10'
+VERSION = '0.0.13'
 DESCRIPTION = 'Basic Camera Emulator'
 LONG_DESCRIPTION = 'Camera emulator'
 

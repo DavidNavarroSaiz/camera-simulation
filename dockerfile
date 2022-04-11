@@ -23,7 +23,5 @@ RUN pip install CameraSimulator
 RUN pip install pytest
 # We need to define the command to launch when we are going to run the image.
 # We use the keyword 'CMD' to do that.
-# The following command will execute "pytest ./test_camera_simulator.py".
 
-# RUN ["pytest", "-v"]
 CMD ["pytest", "-v"]
